@@ -1,8 +1,4 @@
-/*
-Wall Poster Animation
-https://codepen.io/wakana-k/pen/MWZbVxm
-Copyright (c) 2023 by Wakana Y.K. @wakana-k 
-*/
+
 "use strict";
 console.clear();
 
